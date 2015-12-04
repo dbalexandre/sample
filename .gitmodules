@@ -1,0 +1,3 @@
+[submodule "dojo-ruby-caixa-eletronico"]
+	path = dojo-ruby-caixa-eletronico
+	url = https://github.com/dbalexandre/dojo-ruby-caixa-eletronico
